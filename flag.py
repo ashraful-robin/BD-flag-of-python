@@ -1,5 +1,7 @@
 """
 	
+	I feel sorry for that. Because the turtle is very slow graphics. But when I was an kid I like that.
+	
 	This is only for windows. If you are not really like to run in windows, then try to ignore the line 'import winsound' and then it will be work properly.
 	I know I am a raw coder. But some times I feel safe with python. 
 
